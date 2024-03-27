@@ -1,4 +1,5 @@
 ,Age,Gender,Education_Status,Employment_Status,Working_Week (Yearly),Industry_Status,Occupation_Status,Race,Martial_Status,Household_Status,Citizenship,Birth_Country,Birth_Country (Father),Birth_Country (Mother),Tax_Status,Gains,Losses,Dividends,Income_Status
+0,79,0,2,1,0,14,14,4,2,4,2,4,6,6,5,0,0,0,1
 1,47,0,1,1,0,14,14,4,2,0,2,4,4,4,4,0,0,0,1
 2,18,1,2,1,52,19,11,4,2,0,2,4,4,4,5,0,0,0,1
 3,39,1,3,4,30,12,11,4,1,7,2,4,4,4,2,0,0,0,2
